@@ -3,22 +3,26 @@
     "name": "Finn: Reckless Stalker"
   },
   "color": 5406831,
+  "footer": {
+    "text": "Tier S",
+    "icon_url": "https://i.imgur.com/3FiEKnd.png"
+  },
   "image": "https://i.imgur.com/vgOHvL4.png",
   "thumbnail": "https://i.imgur.com/wVvgEDJ.png",
   "fields": [
     {
       "name": "Chomp",
-      "value": "_Charges into prey to regain health_",
+      "value": "Charges into prey to regain health",
       "inline": true
     },
     {
       "name": "Stats",
-      "value": "» **Cooldown**: 6 seconds\n\n» **Damage**: 450\n\n» **Heal**: 100 ",
+      "value": "» Cooldown: 6s\n\n» Damage: 450\n\n» Heal: 100 ",
       "inline": true
     },
     {
       "name": "Passive: Blood Scent",
-      "value": "_Smells opponents low on health and makes them visible_",
+      "value": "Smells opponents low on health and makes them visible",
       "inline": true
     },
     {
