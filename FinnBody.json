@@ -1,0 +1,30 @@
+{
+  "author": {
+    "name": "Finn: Reckless Stalker"
+  },
+  "color": 5406831,
+  "image": "https://i.imgur.com/vgOHvL4.png",
+  "thumbnail": "https://i.imgur.com/wVvgEDJ.png",
+  "fields": [
+    {
+      "name": "Chomp",
+      "value": "_Charges into prey to regain health_",
+      "inline": true
+    },
+    {
+      "name": "Stats",
+      "value": "» **Cooldown**: 6s\n\n» **Damage**: 450\n\n» **Heal**: 100 ",
+      "inline": true
+    },
+    {
+      "name": "Passive: Blood Scent",
+      "value": "_Smells opponents low on health and makes them visible_",
+      "inline": true
+    },
+    {
+      "name": "Items",
+      "value": "Snorkel, Adrenaline Shot, Happy Treats, Nitro Spear ",
+      "inline": true 
+    }
+  ]
+}
