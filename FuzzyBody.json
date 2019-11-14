@@ -3,7 +3,7 @@
     "name": "Fuzzy: Frosty Strafer"
   },
   "color": 5406831,
-  "image": "https://i.imgur.com/u0RSMjP.jpg",
+  "image": "https://i.imgur.com/090VLub.png",
   "thumbnail": "https://i.imgur.com/YO8Qk8U.png",
   "fields": [
     {
@@ -15,6 +15,11 @@
       "name": "Stats",
       "value": "» **Cooldown**: 10s\n\n» **Additional speed**: 6 ",
       "inline": true
+    }, 
+    {
+      "name": "Ice Attack",
+      "value": "_Slows down enemies with his attacks_",
+      "inline": true
     },
     {
       "name": "Items",
@@ -23,4 +28,3 @@
     }
   ]
 }
- 
