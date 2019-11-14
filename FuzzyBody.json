@@ -3,22 +3,26 @@
     "name": "Fuzzy: Frosty Strafer"
   },
   "color": 5406831,
+  "footer": {
+    "text": "Tier SSS",
+    "icon_url": "https://i.imgur.com/wQWSZdB.png"
+  },
   "image": "https://i.imgur.com/090VLub.png",
   "thumbnail": "https://i.imgur.com/YO8Qk8U.png",
   "fields": [
     {
       "name": "Slide",
-      "value": "_Slides to get a Speed boost_",
+      "value": "Slides to get a Speed boost",
       "inline": true
     },
     {
       "name": "Stats",
-      "value": "» **Cooldown**: 10 seconds\n\n» **Additional speed**: 6 ",
+      "value": "» Cooldown: 10s\n\n» Additional speed: 6 ",
       "inline": true
     }, 
     {
       "name": "Ice Attack",
-      "value": "_Slows down enemies with his attacks_",
+      "value": "Slows down enemies with his attacks",
       "inline": true
     },
     {
