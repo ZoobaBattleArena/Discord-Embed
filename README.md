@@ -3,7 +3,7 @@ Char JSON Body for the Discord Embeds
 
 Welcome individual, 
 
-see [Example.json](master/Example.json) for a copy of the body
+see [Example.json](/Example.json) for a copy of the body
 
 # CharBody.json
 
