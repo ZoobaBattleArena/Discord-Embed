@@ -1,0 +1,34 @@
+{
+  "title": "Name: Description_Char",
+  "author": {
+    "icon_url": "Icon_Char.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier TIER_Level",
+    "icon_url": "https://i.imgur.com/3FiEKnd.png"
+  },
+  "image": "Item_image.png",
+  "fields": [
+    {
+      "name": "Ability_Name",
+      "value": "_AbDesc_",
+      "inline": true
+    },
+    {
+      "name": "Stats",
+      "value": "» **Cooldown**: Nz seconds\\n\\n» **X**: Nx",
+      "inline": true
+    },
+    {
+      "name": "Passive_Name",
+      "value": "_PassDesc_",
+      "inline": true
+    },
+    {
+      "name": "Items",
+      "value": "X, X, X, X ",
+      "inline": true
+    }
+  ]
+}
