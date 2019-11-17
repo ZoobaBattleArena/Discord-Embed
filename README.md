@@ -16,3 +16,25 @@ Char JSON Body for the Discord Embeds:
 - [ ] Nix
 - [ ] Molly
 - [ ] Duke
+
+# How-To Contribute A Fabulous and Nebulous CharBody.json
+
+It's pretty easy—you don't have to have any previous knowledge, it would not be that bad!
+
+Let's start a step-by-step guide
+
+1. First
+   - copy the linked example above
+   - create/upload a new file after `Character_NameBody.json`
+     - **Character_Name** should be replaced with the name of the Char.
+
+2. Filling a CharBody.json
+   - Author
+     - **name**: Insert here the name and slogan for the character
+       - Don't forget to add a colon between slogan and name
+     - **icon_url**: Lookup the icon of the Char in the downloaded Icon File/Fan Kit
+       - Upload it to imgur.com
+       - Copy the link and insert it
+     - **colour**: Normally, the decimal colour code should already be included
+       - Check if it is the right one
+         - Colour: `5406831`
