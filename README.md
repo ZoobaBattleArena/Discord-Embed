@@ -7,7 +7,7 @@ see [Example.json](/Example.json) for a copy of the body
 
 # CharBody.json
 
-- [x] Fuzzy
+- [x] [Fuzzy](/FuzzyBody.json)
 - [ ] Pepper
 - [x] Finn
 - [ ] Buck
