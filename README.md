@@ -9,7 +9,7 @@ see [Example.json](/Example.json) for a copy of the body
 
 - [x] [Fuzzy](/FuzzyBody.json)
 - [ ] Pepper
-- [x] Finn
+- [x] [Finn](/FinnBody.json)
 - [ ] Buck
 - [ ] Larry
 - [ ] Ollie
