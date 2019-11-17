@@ -1,14 +1,15 @@
 {
   "author": {
-    "name": "Finn: Reckless Stalker"
+    "name": "Finn: Reckless Stalker",
+    "icon_url": "https://i.imgur.com/9jxBmoc.png"
   },
   "color": 5406831,
   "footer": {
     "text": "Tier S",
     "icon_url": "https://i.imgur.com/wQWSZdB.png"
   },
-  "image": "https://i.imgur.com/vgOHvL4.png",
   "thumbnail": "https://i.imgur.com/wVvgEDJ.png",
+  "image": "https://i.imgur.com/vgOHvL4.png",
   "fields": [
     {
       "name": "Chomp",
@@ -17,7 +18,7 @@
     },
     {
       "name": "Stats",
-      "value": "» **Cooldown**: 6 seconds\n\n» **Damage**: 450\n\n» **Heal**: 100 ",
+      "value": "» **Cooldown**: 6 seconds\\n\\n» **Damage**: 450\n\n» **Heal**: 100",
       "inline": true
     },
     {
@@ -27,8 +28,8 @@
     },
     {
       "name": "Items",
-      "value": "Snorkel, Adrenaline Shot, Happy Treats, Nitro Spear ",
-      "inline": true 
+      "value": "Snorkel, Adrenaline Shot, Happy Threats, Nitro Spear",
+      "inline": true
     }
   ]
 }
