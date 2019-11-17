@@ -1,14 +1,15 @@
 {
-  "title": "Name: Description_Char",
   "author": {
-    "icon_url": "Icon_Char.png"
+    "name": "Name: Short_Desc_Char",
+    "icon_url": "Map_Char_Icon.png"
   },
   "color": 5406831,
   "footer": {
     "text": "Tier TIER_Level",
-    "icon_url": "https://i.imgur.com/3FiEKnd.png"
+    "icon_url": "https://i.imgur.com/wQWSZdB.png"
   },
-  "image": "Item_image.png",
+  "thumbnail": "char_icon_right_top.png",
+  "image": "items_picture_before_emoj.png",
   "fields": [
     {
       "name": "Ability_Name",
