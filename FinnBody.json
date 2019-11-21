@@ -9,7 +9,6 @@
     "icon_url": "https://i.imgur.com/wQWSZdB.png"
   },
   "thumbnail": "https://i.imgur.com/wVvgEDJ.png",
-  "image": "https://i.imgur.com/vgOHvL4.png",
   "fields": [
     {
       "name": "Chomp",
@@ -28,7 +27,7 @@
     },
     {
       "name": "Items",
-      "value": "Snorkel, Adrenaline Shot, Happy Threats, Nitro Spear",
+      "value": "{sn} {adsh} {hatr} {nisp}",
       "inline": true
     }
   ]
