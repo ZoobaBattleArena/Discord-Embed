@@ -13,6 +13,7 @@ Char JSON Body for the Discord Embeds:
 - [ ] Larry
 - [ ] Ollie
 - [ ] Bruce
+- [ ] Shelly
 - [ ] Nix
 - [ ] Molly
 - [ ] Duke
