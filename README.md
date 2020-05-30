@@ -17,6 +17,12 @@ Char JSON Body for the Discord Embeds:
 - [ ] Nix
 - [ ] Molly
 - [ ] Duke
+- [ ] Jade
+- [ ] Lizzy
+- [ ] Louie
+- [ ] Steve
+- [ ] Skippy
+- [ ] Forni
 
 # How-To Contribute A Fabulous and Nebulous CharBody.json
 
