@@ -5,7 +5,7 @@
   },
   "color": 5406831,
   "footer": {
-    "text": "Tier S",
+    "text": "Tier B+",
     "icon_url": "https://i.imgur.com/wQWSZdB.png"
   },
   "thumbnail": "https://i.imgur.com/wVvgEDJ.png",
@@ -17,7 +17,7 @@
     },
     {
       "name": "Stats",
-      "value": "» **Cooldown**: 6 seconds\\n\\n» **Damage**: 450\n\n» **Heal**: 100",
+      "value": "» **Cooldown**: 6 seconds\n\n» **Damage**: 450\n\n» **Heal**: 100",
       "inline": true
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "name": "Items",
-      "value": "{sn} {adsh} {hatr} {nisp}",
+      "value": " {nisp} {vate} {sn} {adsh} ",
       "inline": true
     }
   ]
