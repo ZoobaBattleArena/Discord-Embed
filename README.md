@@ -7,7 +7,7 @@ Char JSON Body for the Discord Embeds:
 # CharBody.json
 
 - [x] [Fuzzy](/FuzzyBody.json)
-- [ ] Pepper
+- [x] [Pepper](/PepperBody.json)
 - [x] [Finn](/FinnBody.json)
 - [ ] Buck
 - [ ] Larry
