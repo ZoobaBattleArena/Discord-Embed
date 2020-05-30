@@ -1,0 +1,34 @@
+{
+  "author": {
+    "name": "Pepper: All-seeing Sniperess",
+    "icon_url": "https://i.imgur.com/lC54MDc.png"
+  },
+  "color": 5406831,
+  "footer": {
+    "text": "Tier SS",
+    "icon_url": "https://i.imgur.com/wQWSZdB.png"
+  },
+  "thumbnail": "https://i.imgur.com/4TQFPPe.png",
+  "fields": [
+    {
+      "name": "High Ground",
+      "value": "_Greatly increases view and attack range, but stops movement_",
+      "inline": true
+    },
+    {
+      "name": "Stats",
+      "value": "» **Duration**: 6 seconds\n\n» **Range**: 10",
+      "inline": true
+    },
+    {
+      "name": "Passive: Bush Sight",
+      "value": "_Bushes don't block vision_",
+      "inline": true
+    },
+    {
+      "name": "Items",
+      "value": " {knsp} {vate} {mobo} {clbo} ",
+      "inline": true
+    }
+  ]
+}
