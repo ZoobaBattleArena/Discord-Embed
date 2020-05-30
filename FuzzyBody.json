@@ -4,10 +4,9 @@
   },
   "color": 5406831,
   "footer": {
-    "text": "Tier SSS",
+    "text": "Tier S",
     "icon_url": "https://i.imgur.com/wQWSZdB.png"
   },
-  "image": "https://i.imgur.com/090VLub.png",
   "thumbnail": "https://i.imgur.com/YO8Qk8U.png",
   "fields": [
     {
@@ -17,17 +16,17 @@
     },
     {
       "name": "Stats",
-      "value": "» **Cooldown**: 10 seconds\n\n» **Additional speed**: 6 ",
+      "value": "» **Cooldown**: 10 seconds\n\n» **Additional speed**: 5.4 ",
       "inline": true
     }, 
     {
-      "name": "Ice Attack",
+      "name": "Passive: Ice Attack",
       "value": "_Slows down enemies with his attacks_",
       "inline": true
     },
     {
       "name": "Items",
-      "value": "Vampire Teeth, Adrenaline Shot, Cluster Bomb, Molotov ",
+      "value": " {hatr} {sn} {nisp} {fire} ",
       "inline": true 
     }
   ]
